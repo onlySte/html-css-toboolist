@@ -27,6 +27,7 @@ body {
 
 header {
     background-color: white;
+
 }
 
 .container-box {
@@ -160,8 +161,8 @@ address {
 
 .icon-green {
     display: inline-block;
-    border-style: solid;
-    border-color: green;
+    /* border-style: solid;
+    border-color: green; */
     border: 1px solid green;
     border-radius: 50%;
     height: 30px;
@@ -169,16 +170,18 @@ address {
     text-align: center;
     vertical-align: middle;
     margin-right: 10px;
+    color: green;
 }
 
 .icon-red {
     display: inline-block;
-    border-style: solid;
-    border-color: red;
+    /* border-style: solid;
+    border-color: red; */
     border: 1px solid red;
     border-radius: 50%;
     height: 30px;
     width: 30px;
     text-align: center;
     margin-right: 10px;
+    color: red;
 }
