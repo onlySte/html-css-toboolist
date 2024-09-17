@@ -15,3 +15,22 @@
     width: 1000px;
     max-width: 100px;
 }
+
+/* Sezione HEADER */
+
+.container-box {
+    margin: 15px 15px;
+    /* line-height: 100px; */
+    font-size: 25px;
+}
+
+#header-image {
+    /* height: 100px; */
+    vertical-align: middle;
+}
+
+#header-title {
+    display: inline;
+    vertical-align: middle;
+
+}
