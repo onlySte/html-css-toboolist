@@ -9,19 +9,30 @@
 
 /* UTILS */
 
-.container {
+/* .container {
     margin: 0 auto;
     padding: 0 10px;
     width: 1000px;
     max-width: 100px;
+    margin: auto;
+} */
+
+body {
+    background-color: rgb(225, 221, 221);
 }
+
 
 /* Sezione HEADER */
 
+header {
+    background-color: white;
+}
+
 .container-box {
-    margin: 15px 15px;
     /* line-height: 100px; */
     font-size: 25px;
+    margin-bottom: 40px;
+    padding-left: 15px;
 }
 
 #header-image {
@@ -33,4 +44,33 @@
     display: inline;
     vertical-align: middle;
 
+}
+
+/* Sezione BOTTONI */
+
+.container {
+    background-color: blueviolet;
+    width: 700px;
+    margin: auto;
+    padding: 10px 15px;
+    background-color: white;
+}
+
+
+.btn {
+    border-radius: 5px;
+    border: none;
+    padding: 5px 10px;
+
+}
+
+#first-btn {
+    background-color: rgb(81, 109, 232);
+    color: white;
+}
+
+#second-btn {
+    color: gray;
+    background-color: white;
+    border: 1px solid gray;
 }
