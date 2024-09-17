@@ -103,3 +103,31 @@ address {
     padding: 4px 5px;
     border-radius: 5px;
 }
+
+/* Terza sezione Main */
+
+article {
+    margin-top: 15px;
+}
+
+#address-2 {
+    line-height: 25px;
+}
+
+.editorial-2 {
+    margin-left: 4px;
+}
+
+/* Background */
+
+#span-violet {
+    background-color: blueviolet;
+}
+
+#span-green {
+    background-color: rgb(12, 195, 140);
+}
+
+#span-orange {
+    background-color: orange;
+}
